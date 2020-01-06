@@ -10,3 +10,8 @@
 ### Meta Learning
 
 ### Kubernetes 
+
+### ML For Production
+- [ ] [CD4ML](https://martinfowler.com/articles/cd4ml.html)
+- [ ] [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
+
