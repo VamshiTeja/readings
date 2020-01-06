@@ -2,7 +2,7 @@
  Curated list of personal interesting papers/articles to read
  
 ### General Deep Learning
-- [ ] [SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/abs/1905.01164) (ICCV 2019 Best Paper Award)
+- [x] [SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/abs/1905.01164) (ICCV 2019 Best Paper Award)
 - [ ] [Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 - [ ] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
  
