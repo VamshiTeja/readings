@@ -5,7 +5,7 @@
 - [x] [SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/abs/1905.01164) (ICCV 2019 Best Paper Award)
 - [ ] [Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 - [ ] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
-- [ ] [NIPS 2019 Summary] (https://david-abel.github.io/notes/neurips_2019.pdf)
+- [ ] [NIPS 2019 Summary](https://david-abel.github.io/notes/neurips_2019.pdf)
  
 ### Incremental Learning
 - [ ] [Large Scale Incremental Learning](https://arxiv.org/abs/1905.13260) (CVPR 2019)
