@@ -3,7 +3,7 @@
  
  
 ### NeurIPS 2019
-- [ ] [ViLBERT: Pretraining Task-Agnostic Visiolinguistic
+- [x] [ViLBERT: Pretraining Task-Agnostic Visiolinguistic
 Representations for Vision-and-Language Tasks](https://papers.nips.cc/paper/8297-vilbert-pretraining-task-agnostic-visiolinguistic-representations-for-vision-and-language-tasks.pdf)
 - [ ] [Zero-shot Learning via Simultaneous Generating and
 Learning](https://papers.nips.cc/paper/8300-zero-shot-learning-via-simultaneous-generating-and-learning.pdf)
