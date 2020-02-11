@@ -17,6 +17,7 @@ Learning](https://papers.nips.cc/paper/8300-zero-shot-learning-via-simultaneous-
 - [ ] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - [ ] [NIPS 2019 Summary](https://david-abel.github.io/notes/neurips_2019.pdf)
 - [ ] [Machine Unlearning](https://arxiv.org/pdf/1912.03817v1.pdf)
+- [x] [GENERATIVE TEACHING NETWORKS: ACCELERATING NEURAL ARCHITECTURE SEARCH BY LEARNING TO GENERATE SYNTHETIC TRAINING DATA](https://arxiv.org/pdf/1912.07768.pdf)
 
 ### Incremental Learning
 - [ ] [Large Scale Incremental Learning](https://arxiv.org/abs/1905.13260) (CVPR 2019)
