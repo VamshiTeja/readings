@@ -1,4 +1,4 @@
-# readings-to-do
+# Readings
  Curated list of personal interesting papers/articles to read
  
  
